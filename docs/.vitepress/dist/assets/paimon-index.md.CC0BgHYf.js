@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CQAhCBne.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"paimon-index.md","filePath":"paimon-index.md"}'),n={name:"paimon-index.md"};function o(r,i,s,c,p,d){return a(),t("div")}const f=e(n,[["render",o]]);export{_ as __pageData,f as default};
